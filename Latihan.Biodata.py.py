@@ -1,0 +1,15 @@
+Nama = input("Nama lengkap kamu :")
+Namapanggilan = input("Nama panggilan :")
+NPM = input("NPM :")
+TempatLahir = input("Tempat lahir :")
+Umur = input("Umur :")
+Alamat = input ("Alamat :")
+Telepon = input ("Telepon :")
+
+print ("Assalamualaikum wr.wb")
+
+print ("Lets me introduce my self, My name is",Nama,"but you can call me",Namapanggilan,".")
+print ("My name NPM is",NPM,"I wash born",TempatLahir,"and iam ",Umur,"years old.")
+print ("I am very glade if you want to invite to my haouse in",Alamat,".")
+print ("So don't forget to call me before with the number",Telepon,"")
+print ("THANK YOU")
